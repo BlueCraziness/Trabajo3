@@ -1,0 +1,11 @@
+Operador	Conexion	Velocidad
+X	A	42
+X	B	54
+X	C	44
+Y	A	46
+Y	B	51
+Y	C	38
+Z	A	39
+Z	B	46
+Z	C	34
+
